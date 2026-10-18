@@ -1,0 +1,389 @@
+question_id,question_type,question,gold_page,pred_pages,page_hit,refused,answer_ok,latency_sec,answer
+Q01,Known,How do I connect my Samsung TV to Wi-Fi?,9.0,"[156, 9]",True,False,True,0.08,"Based on the manual for your question (How do I connect my Samsung TV to Wi-Fi?):
+
+1. not supported if your TV model is The Frame and installed in portrait orientation. To use the TV in landscape orientation, set up the feature again.
+2. If Samsung soundbars or Samsung wireless speakers that support Q-Symphony are connected, surround sound configuration can be used when the following conditions are met.
+3. Two or more Samsung wireless speakers of the same type are connected to the same wireless "
+Q02,Known,How do I turn on subtitles?,168.0,"[234, 239, 260]",False,False,True,0.005,"Based on the manual for your question (How do I turn on subtitles?):
+
+1. Section: Subtitles appear on the TV screen.
+2. Chapter: Picture Issues
+3. Turn off the Subtitle function in Subtitle Settings.
+4. Home > Settings All Settings General & Privacy Accessibility Subtitle Settings Subtitle
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 234."
+Q03,Known,How do I enable captions or subtitles on the TV?,168.0,"[234, 168]",True,False,True,0.004,"Based on the manual for your question (How do I enable captions or subtitles on the TV?):
+
+1. Section: Subtitles appear on the TV screen.
+2. Chapter: Picture Issues
+3. Turn off the Subtitle function in Subtitle Settings.
+4. Home > Settings All Settings General & Privacy Accessibility Subtitle Settings Subtitle
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 234."
+Q04,Known,How do I update the TV software?,165.0,"[165, 257]",True,False,True,0.102,"Based on the manual for your question (How do I update the TV software?):
+
+1. Section: Updating the TV's Software
+2. Chapter: System and Support
+3. View your TV's software version and update it if necessary.
+4. DO NOT turn off the TV's power until the update is complete. The TV will turn off and on automatically after completing the software update. Video and audio settings will be reset to their defaults after a software update.
+5. Home > Settings Support Software Update Updating through the ne"
+Q05,Known,How do I enable Game Mode?,150.0,"[150, 33]",True,False,True,0.004,"Based on the manual for your question (How do I enable Game Mode?):
+
+1. Section: Setting the Viewing Environment for External Devices
+2. Chapter: Picture and Sound
+3. You can optimise the TV for viewing specific video formats.
+4. Playing games on an optimised screen
+5. Home > Settings All Settings Connection Game Mode Settings Game Mode
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 150."
+Q06,Known,How do I enable Game Mode on the DU8000?,150.0,"[150, 114]",True,False,True,0.004,"Based on the manual for your question (How do I enable Game Mode on the DU8000?):
+
+1. Section: Setting the Viewing Environment for External Devices
+2. Chapter: Picture and Sound
+3. You can optimise the TV for viewing specific video formats.
+4. Playing games on an optimised screen
+5. Home > Settings All Settings Connection Game Mode Settings Game Mode
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 150."
+Q07,Known,How do I connect Bluetooth headphones or a Bluetooth speaker?,241.0,"[241, 156, 235]",True,False,True,0.004,"Based on the manual for your question (How do I connect Bluetooth headphones or a Bluetooth speaker?):
+
+1. Section: I want to connect to a Bluetooth speaker.
+2. Chapter: External Device Connectivity Issues
+3. For more information on how to connect a Bluetooth speaker, see Audio Device Bluetooth in Connection Guide.
+4. Home > Connected Devices Connection Guide Audio Device Bluetooth
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 241."
+Q08,Known,Why isn't my remote working?,245.0,"[245, 250, 246]",True,False,True,0.004,"Based on the manual for your question (Why isn't my remote working?):
+
+1. Section: The remote control does not work.
+2. Chapter: Remote Control Issues
+3. The connection between the remote control and the TV may be lost.
+4. Point the Samsung Smart Remote at the front of the TV, and then press and hold the and buttons simultaneously for 3 seconds or more.
+5. Also, if the remote control does not work properly or its response is very slow, the battery might be low or dead.
+
+Source: Samsung DU8000 Cr"
+Q09,Known,What should I do if the remote control does not work?,245.0,"[245, 250, 250]",True,False,True,0.004,"Based on the manual for your question (What should I do if the remote control does not work?):
+
+1. Section: The remote control does not work.
+2. Chapter: Remote Control Issues
+3. The connection between the remote control and the TV may be lost.
+4. Point the Samsung Smart Remote at the front of the TV, and then press and hold the and buttons simultaneously for 3 seconds or more.
+5. Also, if the remote control does not work properly or its response is very slow, the battery might be low or dead.
+
+"
+Q10,Known,Does this TV support HDMI ARC or eARC?,6.0,"[236, 154, 225]",False,False,True,0.003,"Based on the manual for your question (Does this TV support HDMI ARC or eARC?):
+
+1. Section: HDMI (eARC/ARC) is connected, and there is no sound.
+2. Chapter: Sound and Noise Issues
+3. Check whether Digital Output Audio Format is set to Pass-through.
+4. If a soundbar or A/V receiver that does not support Dolby Digital+ is used and Pass-through is selected, there is no sound when a Dolby Digital+ source is received.
+5. It is recommended to set Digital Output Audio Format to Auto if only limited au"
+Q11,Known,How do I connect an antenna?,8.0,"[235, 8, 241]",True,False,True,0.003,"Based on the manual for your question (How do I connect an antenna?):
+
+1. Section: How can I connect an audio device to the TV?
+2. Chapter: Sound and Noise Issues
+3. The connection method may differ depending on the audio device such as HDMI (eARC/ARC), Optical, Bluetooth and Wi-Fi.
+4. For more information about how to connect an audio device, run Connection Guide.
+5. Home > Connected Devices Connection Guide Audio Device
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 235."
+Q12,Known,How do I reset the network settings?,9.0,"[247, 247, 252]",False,False,True,0.004,"Based on the manual for your question (How do I reset the network settings?):
+
+1. Section: I launched an app, but it's in a different language. How can I change the language?
+2. Chapter: Apps
+3. Languages supported by an app may be different from the TV Language set in the menu.
+4. The ability to change the language depends on the app's provider. Change the language from the settings menu in the app.
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 247."
+Q13,Known,How do I perform a Smart Hub reset?,256.0,"[41, 276, 247]",False,False,True,0.004,"Based on the manual for your question (How do I perform a Smart Hub reset?):
+
+1. Section: Using Smart Hub
+2. Chapter: Smart Features
+3. View descriptions of Smart Hub's basic functions.
+4. From Smart Hub, you can use the Internet search function, install and use various apps, view photos and videos or listen to music and perform more functions.
+5. Some Smart Hub services are paid services.
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 41."
+Q14,Known,How do I factory reset related Smart Hub settings?,256.0,"[256, 276, 41]",True,False,True,0.003,"Based on the manual for your question (How do I factory reset related Smart Hub settings?):
+
+1. Section: Reset Smart Hub
+2. Chapter: Diagnosing TV operational issues
+3. Resets all Smart Hub settings to their factory defaults and deletes all information related to Samsung accounts, linked service accounts, Smart Hub service agreements and Smart Hub applications.
+4. Home > Settings Support Device Care Self Diagnosis Reset Smart Hub
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 256."
+Q15,Known,How do I pair the Samsung Smart Remote?,32.0,"[32, 33, 105]",True,False,True,0.004,"Based on the manual for your question (How do I pair the Samsung Smart Remote?):
+
+1. Section: Connecting the Samsung Smart Remote to the TV
+2. Chapter: Remote Control and Peripherals
+3. Connect the Samsung Smart Remote to your TV to operate the TV.
+4. When you turn on the TV for the first time, the Samsung Smart Remote pairs to the TV automatically. If the Samsung Smart Remote does not pair to the TV automatically, point it at the front of the TV, then press and hold the and buttons simultaneous"
+Q16,Known,How do I check network connection status?,9.0,"[235, 242, 9]",True,False,True,0.003,"Based on the manual for your question (How do I check network connection status?):
+
+1. Section: How can I connect an audio device to the TV?
+2. Chapter: Sound and Noise Issues
+3. The connection method may differ depending on the audio device such as HDMI (eARC/ARC), Optical, Bluetooth and Wi-Fi.
+4. For more information about how to connect an audio device, run Connection Guide.
+5. Home > Connected Devices Connection Guide Audio Device
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 235."
+Q17,Known,How do I use Accessibility Shortcuts for subtitles?,168.0,"[260, 168]",True,False,True,0.003,"Based on the manual for your question (How do I use Accessibility Shortcuts for subtitles?):
+
+1. Section: Using the Accessibility menu
+2. Chapter: Menu Learning Screen
+3. View how to use the Accessibility menu functions and description of its functions.
+4. This function may not be supported depending on the model or geographical area.
+5. Running the Accessibility Shortcuts menu
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 260."
+Q18,Known,How do I connect a soundbar via HDMI eARC?,6.0,"[238, 235, 154]",False,False,True,0.003,"Based on the manual for your question (How do I connect a soundbar via HDMI eARC?):
+
+1. Section: I want to turn the TV and audio device off and on at the same time.
+2. Chapter: Sound and Noise Issues
+3. When you connect the Samsung Soundbar to the TV via Bluetooth, the power turns off and on together. It may not be supported depending on the Samsung Soundbar model.
+4. When you connect an audio device that supports HDMI eARC to the HDMI (eARC) port on the TV, the power turns off and on together.
+"
+Q19,Known,What should I do if wireless network connection failed?,242.0,"[242, 242, 9]",True,False,True,0.003,"Based on the manual for your question (What should I do if wireless network connection failed?):
+
+1. Section: Wireless network connection failed. Unable to connect to a wireless access point. Unable to connect to the network.
+2. Chapter: Network Issues
+3. Home > Settings Support Device Care Self Diagnosis Smart Hub Connection Test
+4. Ensure that the network cable is connected and the router is powered on.
+5. Connect your mobile device to the router via Wi-Fi.
+
+Source: Samsung DU8000 Crystal UHD "
+Q20,Known,How do I turn the TV on with my phone?,9.0,"[243, 238, 244]",False,False,True,0.004,"Based on the manual for your question (How do I turn the TV on with my phone?):
+
+1. Section: I want to start Anynet+. I also want the connected devices to turn on when the TV is turned on.
+2. Chapter: Anynet+ (HDMI-CEC) Issues
+3. Check if the Anynet+ device is properly connected to the TV, and then select Anynet+ (HDMI-CEC) menu to see if Anynet+ (HDMI-CEC) is set to On.
+4. Home > Settings All Settings Connection External Device Manager Anynet+ (HDMI-CEC)
+
+Source: Samsung DU8000 Crystal UHD User"
+Q21,Inferred,tv screen gone weird,145.0,"[237, 13, 234]",False,False,True,0.005,"Based on the manual for your question (tv screen gone weird):
+
+1. Section: Whenever a function is used on the TV or the channel is changed, the TV voices the activity. The TV explains in voiceover the video scenes displayed on the screen.
+2. Chapter: Sound and Noise Issues
+3. Turn off the Voice Guide function in Voice Guide Settings.
+4. Home > Settings All Settings General & Privacy Accessibility Voice Guide Settings Voice Guide
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 237."
+Q22,Inferred,no sound from telly,154.0,"[235, 236, 235]",False,False,True,0.004,"Based on the manual for your question (no sound from telly):
+
+1. Section: There is no sound or the sound is too low at maximum volume.
+2. Chapter: Sound and Noise Issues
+3. Check the volume control of your TV, and then check the volume control of the external device (cable box or satellite box, DVD, Blu-ray, etc.) connected to your TV.
+4. Check the cable connection between an external device and the TV, and then try cable connection again.
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 235."
+Q23,Inferred,wifi not connecting help,242.0,[9],False,False,True,0.003,"Based on the manual for your question (wifi not connecting help):
+
+1. Section: Connecting to the network
+2. Chapter: Connections
+3. You can get access to the network through your TV.
+4. Home > Settings All Settings Connection Network Open Network Settings
+5. Configure network settings to connect to an available network.
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 9."
+Q24,Inferred,remote dead won't control tv,245.0,"[245, 250, 234]",True,False,True,0.003,"Based on the manual for your question (remote dead won't control tv):
+
+1. Section: The remote control does not work.
+2. Chapter: Remote Control Issues
+3. The connection between the remote control and the TV may be lost.
+4. Point the Samsung Smart Remote at the front of the TV, and then press and hold the and buttons simultaneously for 3 seconds or more.
+5. Also, if the remote control does not work properly or its response is very slow, the battery might be low or dead.
+
+Source: Samsung DU8000 Cr"
+Q25,Inferred,how to get bluetooth headphones working,241.0,"[241, 156, 6]",True,False,True,0.003,"Based on the manual for your question (how to get bluetooth headphones working):
+
+1. Section: I want to connect to a Bluetooth speaker.
+2. Chapter: External Device Connectivity Issues
+3. For more information on how to connect a Bluetooth speaker, see Audio Device Bluetooth in Connection Guide.
+4. Home > Connected Devices Connection Guide Audio Device Bluetooth
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 241."
+Q26,Inferred,game mode for playstation,150.0,[150],True,False,True,0.003,"Based on the manual for your question (game mode for playstation):
+
+1. Section: Setting the Viewing Environment for External Devices
+2. Chapter: Picture and Sound
+3. You can optimise the TV for viewing specific video formats.
+4. Playing games on an optimised screen
+5. Home > Settings All Settings Connection Game Mode Settings Game Mode
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 150."
+Q27,Inferred,update firmware online,165.0,"[165, 70]",True,False,True,0.003,"Based on the manual for your question (update firmware online):
+
+1. Section: Updating the TV's Software
+2. Chapter: System and Support
+3. View your TV's software version and update it if necessary.
+4. DO NOT turn off the TV's power until the update is complete. The TV will turn off and on automatically after completing the software update. Video and audio settings will be reset to their defaults after a software update.
+5. Home > Settings Support Software Update Updating through the network
+
+Sou"
+Q28,Inferred,subtitles not showing on free to air,168.0,"[168, 239, 234]",True,False,True,0.003,"Based on the manual for your question (subtitles not showing on free to air):
+
+1. ry subtitle language.
+2. Secondary Subtitle Language
+3. Sets the secondary subtitle language.
+4. Enlarging the sign language screen for the hearing impaired
+5. Home > Settings All Settings General & Privacy Accessibility Sign Language Zoom Settings You can zoom in the sign language screen when the programme you are watching provides it. First, set Sign Language Zoom to On, and then select Edit Sign Language Zoom to"
+Q29,Known,How do I reset picture settings?,256.0,"[229, 247, 256]",True,False,True,0.003,"Based on the manual for your question (How do I reset picture settings?):
+
+1. Section: The picture is not bright, or the picture colours do not look clear
+2. Chapter: Picture Issues
+3. If the screen appears too dim, try changing the settings under Reset Picture or disabling Brightness Optimisation, Energy Saving Solution.
+4. Home > Settings All Settings Picture Expert Settings Reset Picture
+5. Home > Settings All Settings General & Privacy Power and Energy Saving Brightness Optimisation
+
+Source:"
+Q30,Known,How do I reset sound settings?,256.0,"[235, 247, 256]",True,False,True,0.003,"Based on the manual for your question (How do I reset sound settings?):
+
+1. Section: How can I connect an audio device to the TV?
+2. Chapter: Sound and Noise Issues
+3. The connection method may differ depending on the audio device such as HDMI (eARC/ARC), Optical, Bluetooth and Wi-Fi.
+4. For more information about how to connect an audio device, run Connection Guide.
+5. Home > Connected Devices Connection Guide Audio Device
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 235."
+Q31,Known,How do I use Anynet+ HDMI-CEC?,243.0,"[243, 244, 34]",True,False,True,0.003,"Based on the manual for your question (How do I use Anynet+ HDMI-CEC?):
+
+1. Section: I want to start Anynet+. I also want the connected devices to turn on when the TV is turned on.
+2. Chapter: Anynet+ (HDMI-CEC) Issues
+3. Check if the Anynet+ device is properly connected to the TV, and then select Anynet+ (HDMI-CEC) menu to see if Anynet+ (HDMI-CEC) is set to On.
+4. Home > Settings All Settings Connection External Device Manager Anynet+ (HDMI-CEC)
+
+Source: Samsung DU8000 Crystal UHD User Manual,"
+Q32,Known,External devices cannot be controlled with the TV remote,245.0,"[245, 250, 245]",True,False,True,0.004,"Based on the manual for your question (External devices cannot be controlled with the TV remote):
+
+1. Section: The remote control does not work.
+2. Chapter: Remote Control Issues
+3. The connection between the remote control and the TV may be lost.
+4. Point the Samsung Smart Remote at the front of the TV, and then press and hold the and buttons simultaneously for 3 seconds or more.
+5. Also, if the remote control does not work properly or its response is very slow, the battery might be low or dead"
+Q33,Known,How do I open the Connection Guide?,6.0,"[235, 252, 241]",False,False,True,0.003,"Based on the manual for your question (How do I open the Connection Guide?):
+
+1. Section: How can I connect an audio device to the TV?
+2. Chapter: Sound and Noise Issues
+3. The connection method may differ depending on the audio device such as HDMI (eARC/ARC), Optical, Bluetooth and Wi-Fi.
+4. For more information about how to connect an audio device, run Connection Guide.
+5. Home > Connected Devices Connection Guide Audio Device
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 235."
+Q34,Known,How do I disconnect Wi-Fi?,9.0,"[9, 156]",True,False,True,0.003,"Based on the manual for your question (How do I disconnect Wi-Fi?):
+
+1. ork Open Network Settings Wireless
+2. Make sure that you have the wireless access point's name (SSID) and password settings before attempting to connect. The network name (SSID) and security key are available on the wireless access point's configuration screen. See the wireless access point's user manual for more information.
+3. If no wireless access point is found, select Add Network at the bottom of the list and enter the "
+Q35,Known,How do I add a hidden wireless network?,9.0,"[247, 240, 9]",True,False,True,0.004,"Based on the manual for your question (How do I add a hidden wireless network?):
+
+1. Section: I cannot find the app I want.
+2. Chapter: Apps
+3. To use smart functions, you should connect to a network, agree to the terms and conditions, and log in with your Samsung account. If these settings were not configured during the initial setting process, you can configure Smart Hub settings by running Apps from the Home Screen.
+4. left directional button Home Apps
+5. If Smart Hub settings are complete bu"
+Q36,Known,Can I use WPS to connect Wi-Fi?,9.0,"[9, 190]",True,False,True,0.003,"Based on the manual for your question (Can I use WPS to connect Wi-Fi?):
+
+1. ork Open Network Settings Wireless
+2. Make sure that you have the wireless access point's name (SSID) and password settings before attempting to connect. The network name (SSID) and security key are available on the wireless access point's configuration screen. See the wireless access point's user manual for more information.
+3. If no wireless access point is found, select Add Network at the bottom of the list and enter"
+Q37,Out of KB,Who is the CEO of Samsung?,,[],False,True,True,0.09,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
+Q38,Out of KB,What's the weather today?,,[],False,True,True,0.005,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
+Q39,Out of KB,How do I cook pasta?,,[],False,True,True,0.018,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
+Q40,Out of KB,What is the stock price of Samsung Electronics?,,[],False,True,True,0.098,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
+Q41,Out of KB,How do I install Android apps from unknown APK sites?,,[],False,True,True,0.004,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
+Q42,Out of KB,Does the manual say how to overclock the TV CPU?,,[],False,True,True,0.004,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
+Q43,Known,How do I change the TV's network device name?,9.0,"[247, 235, 9]",True,False,True,0.003,"Based on the manual for your question (How do I change the TV's network device name?):
+
+1. Section: I launched an app, but it's in a different language. How can I change the language?
+2. Chapter: Apps
+3. Languages supported by an app may be different from the TV Language set in the menu.
+4. The ability to change the language depends on the app's provider. Change the language from the settings menu in the app.
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 247."
+Q44,Known,How do I share my phone screen on the TV?,13.0,"[19, 18, 13]",True,False,True,0.006,"Based on the manual for your question (How do I share my phone screen on the TV?):
+
+1. lowing features on the Sources screen.
+2. Camera Experience
+3. Connect a USB camera, or use the SmartThings app on your mobile phone to connect a camera.
+4. Connect a camera to use video call, home workout, and other new features.
+5. For details on how to connect, refer to Camera Sharing ( Home > Connected Devices
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 19."
+Q45,Known,How do I use Universal remote setup?,33.0,"[33, 19, 34]",True,False,True,0.004,"Based on the manual for your question (How do I use Universal remote setup?):
+
+1. Section: Controlling External Devices with a Samsung Remote Control - Using the Universal remote setup
+2. Chapter: Remote Control and Peripherals
+3. Control the TV and connected external devices with a Samsung remote control.
+4. Home > Connected Devices Universal remote setup
+5. You can control all external devices connected to the TV using a single Samsung remote. Run the Universal remote setup menu to register ex"
+Q46,Inferred,What should I do if the TV won't turn on?,245.0,"[234, 244, 230]",True,False,True,0.003,"Based on the manual for your question (What should I do if the TV won't turn on?):
+
+1. Section: The picture won’t display in full screen.
+2. Chapter: Picture Issues
+3. HD channels will have black bars on either side of the screen when displaying upscaled SD (4:3) content.
+4. Black bars will appear at the top and bottom of the screen when you watch movies that have aspect ratios different from your TV.
+5. Adjust the picture size options on your external device or set the TV to full screen.
+
+Sourc"
+Q47,Known,How do I turn on Multi-output Audio for Bluetooth headphones?,168.0,"[241, 156, 235]",False,False,True,0.004,"Based on the manual for your question (How do I turn on Multi-output Audio for Bluetooth headphones?):
+
+1. Section: I want to connect to a Bluetooth speaker.
+2. Chapter: External Device Connectivity Issues
+3. For more information on how to connect a Bluetooth speaker, see Audio Device Bluetooth in Connection Guide.
+4. Home > Connected Devices Connection Guide Audio Device Bluetooth
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 241."
+Q48,Known,Where is Software Update Auto update?,165.0,"[165, 70]",True,False,True,0.003,"Based on the manual for your question (Where is Software Update Auto update?):
+
+1. Section: Updating the TV's Software
+2. Chapter: System and Support
+3. View your TV's software version and update it if necessary.
+4. DO NOT turn off the TV's power until the update is complete. The TV will turn off and on automatically after completing the software update. Video and audio settings will be reset to their defaults after a software update.
+5. Home > Settings Support Software Update Updating through t"
+Q49,Known,How do I run HDMI Troubleshooting?,6.0,"[235, 241, 243]",False,False,True,0.003,"Based on the manual for your question (How do I run HDMI Troubleshooting?):
+
+1. Section: How can I connect an audio device to the TV?
+2. Chapter: Sound and Noise Issues
+3. The connection method may differ depending on the audio device such as HDMI (eARC/ARC), Optical, Bluetooth and Wi-Fi.
+4. For more information about how to connect an audio device, run Connection Guide.
+5. Home > Connected Devices Connection Guide Audio Device
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 235."
+Q50,Inferred,my telly keeps dropping off the wifi,242.0,[9],False,False,True,0.003,"Based on the manual for your question (my telly keeps dropping off the wifi):
+
+1. ork Open Network Settings Wireless
+2. Make sure that you have the wireless access point's name (SSID) and password settings before attempting to connect. The network name (SSID) and security key are available on the wireless access point's configuration screen. See the wireless access point's user manual for more information.
+3. If no wireless access point is found, select Add Network at the bottom of the list and "
+Q51,Known,How do I set primary subtitle language?,168.0,[168],True,False,True,0.003,"Based on the manual for your question (How do I set primary subtitle language?):
+
+1. ence richer colours on the screen.
+2. When SeeColors Mode is in use, some menus are disabled.
+3. This function may not be supported depending on the model.
+4. Learning about the remote control (for the visually impaired)
+5. Home > Settings All Settings General & Privacy Accessibility Learn TV Remote
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. 168."
+Q52,Known,Is Bluetooth listed as an audio connection method?,6.0,"[235, 6]",True,False,True,0.003,"Based on the manual for your question (Is Bluetooth listed as an audio connection method?):
+
+1. Section: How can I connect an audio device to the TV?
+2. Chapter: Sound and Noise Issues
+3. The connection method may differ depending on the audio device such as HDMI (eARC/ARC), Optical, Bluetooth and Wi-Fi.
+4. For more information about how to connect an audio device, run Connection Guide.
+5. Home > Connected Devices Connection Guide Audio Device
+
+Source: Samsung DU8000 Crystal UHD User Manual, p. "
+Q53,Known,How do I update software using USB?,165.0,"[165, 257]",True,False,True,0.004,"Based on the manual for your question (How do I update software using USB?):
+
+1. Section: Updating the TV's Software
+2. Chapter: System and Support
+3. View your TV's software version and update it if necessary.
+4. DO NOT turn off the TV's power until the update is complete. The TV will turn off and on automatically after completing the software update. Video and audio settings will be reset to their defaults after a software update.
+5. Home > Settings Support Software Update Updating through the"
+Q54,Known,What PIN is used for Reset Smart Hub by default?,41.0,"[41, 175, 134]",True,False,True,0.003,"Based on the manual for your question (What PIN is used for Reset Smart Hub by default?):
+
+1. w When Rotating Multi View runs automatically when you rotate the screen to portrait mode.
+2. This function may not be supported depending on the model.
+3. This function is activated when the Auto Rotating Accessory (sold separately) is connected.
+4. Testing Smart Hub connections
+5. Home > Settings Support Device Care Self Diagnosis Smart Hub Connection Test Resetting Smart Hub Home > Settings Support D"
+Q55,Out of KB,Tell me a joke about TVs,,[],False,True,True,0.003,"I could not find enough information in the Samsung TV manuals I have indexed to answer that confidently. Please try rephrasing, or check the official support page."
