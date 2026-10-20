@@ -1,0 +1,56 @@
+question_id,question,question_type,gold_page,gold_section,gold_answer_summary,notes
+Q01,How do I connect my Samsung TV to Wi-Fi?,Known,9,Connecting to the network,"Open Network Settings > Wireless, select SSID and enter password",easy
+Q02,How do I turn on subtitles?,Known,168,Audio and Video Functions for the Visually or Hearing Impaired,"Accessibility > Subtitle Settings > Subtitle On",easy
+Q03,How do I enable captions or subtitles on the TV?,Known,168,Audio and Video Functions for the Visually or Hearing Impaired,Set Subtitle to On under Accessibility Subtitle Settings,easy
+Q04,How do I update the TV software?,Known,165,Updating the TV's Software,Settings > Support > Software Update > Update Now,procedural
+Q05,How do I enable Game Mode?,Known,150,Setting the Viewing Environment for External Devices,Connection > Game Mode Settings > Game Mode,model-specific-ish
+Q06,How do I enable Game Mode on the DU8000?,Known,150,Setting the Viewing Environment for External Devices,Home > Settings > All Settings > Connection > Game Mode,model-specific
+Q07,How do I connect Bluetooth headphones or a Bluetooth speaker?,Known,241,I want to connect to a Bluetooth speaker,Use Connection Guide > Audio Device > Bluetooth,procedural
+Q08,Why isn't my remote working?,Known,245,The remote control does not work,Re-pair by holding buttons 3 seconds; charge or replace batteries,troubleshooting
+Q09,What should I do if the remote control does not work?,Known,245,The remote control does not work,Point at TV and hold return+play buttons 3+ seconds; check battery,troubleshooting
+Q10,Does this TV support HDMI ARC or eARC?,Known,6,Connection Guide,Audio Device list includes HDMI (eARC/ARC),easy
+Q11,How do I connect an antenna?,Known,8,Connecting an Antenna (Aerial),Connect antenna cable to the TV antenna port,easy
+Q12,How do I reset the network settings?,Known,9,Connecting to the network,Network > Reset Network restores factory network defaults,procedural
+Q13,How do I perform a Smart Hub reset?,Known,256,Reset Smart Hub,Support > Device Care > Self Diagnosis > Reset Smart Hub (PIN),procedural
+Q14,How do I factory reset related Smart Hub settings?,Known,256,Reset Smart Hub,Reset Smart Hub via Self Diagnosis; default PIN 0000,procedural
+Q15,How do I pair the Samsung Smart Remote?,Known,32,Connecting the Samsung Smart Remote to the TV,Hold two buttons 3 seconds if not auto-paired,troubleshooting
+Q16,How do I check network connection status?,Known,9,Connecting to the network,Network > Network Status,easy
+Q17,How do I use Accessibility Shortcuts for subtitles?,Known,168,Audio and Video Functions for the Visually or Hearing Impaired,Hold Volume 2 seconds for Accessibility Shortcuts including Subtitle,easy
+Q18,How do I connect a soundbar via HDMI eARC?,Known,6,Connection Guide,Use Connection Guide Audio Device HDMI eARC/ARC,procedural
+Q19,What should I do if wireless network connection failed?,Known,242,Wireless network connection failed,Run Smart Hub Connection Test; reboot router; verify password,troubleshooting
+Q20,How do I turn the TV on with my phone?,Known,9,Connecting to the network,Expert Settings > Power On with Mobile,easy
+Q21,tv screen gone weird,Inferred,145,Adjusting the Picture Quality,Check picture mode/settings or picture reset paths,tricky
+Q22,no sound from telly,Inferred,154,Configuring a Sound Mode and Expert Settings,Check Sound Mode / Sound Output / external audio connections,tricky
+Q23,wifi not connecting help,Inferred,242,Wireless network connection failed,Troubleshoot wireless network connection failed steps,tricky
+Q24,remote dead won't control tv,Inferred,245,The remote control does not work,Re-pair remote and check charging/batteries,tricky
+Q25,how to get bluetooth headphones working,Inferred,241,I want to connect to a Bluetooth speaker,Connection Guide Bluetooth audio path,tricky
+Q26,game mode for playstation,Inferred,150,Setting the Viewing Environment for External Devices,Game Mode Auto for consoles or set On,tricky
+Q27,update firmware online,Inferred,165,Updating the TV's Software,Software Update over network,tricky
+Q28,subtitles not showing on free to air,Inferred,168,Audio and Video Functions for the Visually or Hearing Impaired,Enable Subtitle Settings; digital channel dependent,tricky
+Q29,How do I reset picture settings?,Known,256,Reset picture,Self Diagnosis / picture reset path in troubleshooting support area,procedural
+Q30,How do I reset sound settings?,Known,256,Reset sound,Reset sound via support/self diagnosis area,procedural
+Q31,How do I use Anynet+ HDMI-CEC?,Known,243,What is Anynet+,Enable Anynet+ under External Device Manager,procedural
+Q32,External devices cannot be controlled with the TV remote,Known,245,External devices cannot be operated with the TV remote control,Check cables; Universal remote setup,troubleshooting
+Q33,How do I open the Connection Guide?,Known,6,Connection Guide,Home > Connected Devices > Connection Guide,easy
+Q34,How do I disconnect Wi-Fi?,Known,9,Connecting to the network,Network Status > Disconnect,easy
+Q35,How do I add a hidden wireless network?,Known,9,Connecting to the network,Add Network and enter SSID,easy
+Q36,Can I use WPS to connect Wi-Fi?,Known,9,Connecting to the network,Use WPS option and press WPS/PBC on access point,easy
+Q37,Who is the CEO of Samsung?,Out of KB,,,Not in TV manual,out-of-scope
+Q38,What's the weather today?,Out of KB,,,Not in TV manual,out-of-scope
+Q39,How do I cook pasta?,Out of KB,,,Not in TV manual,out-of-scope
+Q40,What is the stock price of Samsung Electronics?,Out of KB,,,Not in TV manual,out-of-scope
+Q41,How do I install Android apps from unknown APK sites?,Out of KB,,,Not supported / not in manual as asked,out-of-scope
+Q42,Does the manual say how to overclock the TV CPU?,Out of KB,,,Unanswerable from manual,unanswerable
+Q43,How do I change the TV's network device name?,Known,9,Connecting to the network,Connection > Device Name,easy
+Q44,How do I share my phone screen on the TV?,Known,13,Displaying your mobile device screen on the TV,Smart View / AirPlay / Tap View,procedural
+Q45,How do I use Universal remote setup?,Known,33,Controlling External Devices with a Samsung Remote Control - Using the Universal remote setup,Connected Devices > Universal remote setup,procedural
+Q46,What should I do if the TV won't turn on?,Inferred,245,The remote control does not work,Check power/remote pairing; manual may also cover power issues in troubleshooting,troubleshooting
+Q47,How do I turn on Multi-output Audio for Bluetooth headphones?,Known,168,Audio and Video Functions for the Visually or Hearing Impaired,Accessibility > Multi-output Audio,procedural
+Q48,Where is Software Update Auto update?,Known,165,Updating the TV's Software,Support > Software Update > Auto update,easy
+Q49,How do I run HDMI Troubleshooting?,Known,6,Connection Guide,Connection Guide Video Device HDMI Troubleshooting,troubleshooting
+Q50,my telly keeps dropping off the wifi,Inferred,242,Wireless network connection failed,Follow wireless network troubleshooting; reduce interference,tricky
+Q51,How do I set primary subtitle language?,Known,168,Audio and Video Functions for the Visually or Hearing Impaired,Accessibility subtitle language options,easy
+Q52,Is Bluetooth listed as an audio connection method?,Known,6,Connection Guide,Audio Device includes Bluetooth,easy
+Q53,How do I update software using USB?,Known,165,Updating the TV's Software,Download package to USB top-level folder then Update Now,procedural
+Q54,What PIN is used for Reset Smart Hub by default?,Known,41,Using Smart Hub,Default PIN 0000 mentioned with Reset Smart Hub,easy
+Q55,Tell me a joke about TVs,Out of KB,,,Not a manual question,out-of-scope

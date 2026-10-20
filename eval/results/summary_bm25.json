@@ -1,0 +1,20 @@
+{
+  "Known": {
+    "n": 38,
+    "page_hit_rate": 0.763,
+    "refusal_rate": 0.0,
+    "answer_ok_rate": 1.0
+  },
+  "Inferred": {
+    "n": 10,
+    "page_hit_rate": 0.6,
+    "refusal_rate": 0.0,
+    "answer_ok_rate": 1.0
+  },
+  "Out of KB": {
+    "n": 7,
+    "page_hit_rate": 0.0,
+    "refusal_rate": 1.0,
+    "answer_ok_rate": 1.0
+  }
+}

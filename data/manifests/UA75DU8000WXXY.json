@@ -1,0 +1,14 @@
+{
+  "manufacturer": "Samsung",
+  "brand": "Samsung",
+  "product_type": "TV",
+  "model_number": "UA75DU8000WXXY",
+  "model_family": "Crystal UHD DU8000",
+  "manual_title": "Samsung DU8000 Crystal UHD User Manual",
+  "manual_version": "BN81-25561E-700",
+  "language": "English",
+  "document_url": "https://www.samsung.com/au/support/model/UA75DU8000WXXY/",
+  "local_text": "data/manuals/UA75DU8000WXXY.txt",
+  "local_pdf": "data/manuals/UA75DU8000WXXY.pdf",
+  "notes": "Primary Sprint product. Download the User Manual PDF from the official Samsung AU support page and place it at local_pdf when available. Text extract is already cleaned with page markers."
+}
