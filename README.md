@@ -207,6 +207,10 @@ Full set: `data/questions.csv`.
 - Generation quality depends on the local Ollama model; without Ollama the UI falls back to a grounded Echo stub.
 - Dense threshold tuning is dataset-specific; BM25 is the reliable default before embeddings are built.
 - Safety: never rely on the bot for electrical / wall-mount hazard decisions — see ethics notes in the sprint report.
+- The out-of-scope word list matches the test questions (name the file).
+eval/score.py uses the fake Echo model, so the scores only show if the right page was found.
+“answer_ok” means “gave an answer with a source”, not “gave a correct answer”.
+Optional: a “Future work” line, e.g. new off-topic test questions, testing with the real model, checking some answers by hand.
 
 ## Sprint process
 
