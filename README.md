@@ -54,7 +54,7 @@ copy .env.example .env
 
 # 2) Ollama (local LLM) — install if missing
 winget install --id Ollama.Ollama -e --accept-source-agreements --accept-package-agreements
-# Then open a new terminal (or restart Cursor) so `ollama` is on PATH
+# Then open a new terminal so `ollama` is on PATH
 
 # 3) Pull the model used by this project
 ollama pull llama3
